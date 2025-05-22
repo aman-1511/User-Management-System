@@ -152,6 +152,7 @@ The application will be available at:
 
 
 ![Image](https://github.com/user-attachments/assets/f36583f5-5adc-4710-9213-abe637afe84e)
+![Image](https://github.com/user-attachments/assets/5c3f5c6c-6cb5-43f1-97bf-432e3eb1038f)
 ![Image](https://github.com/user-attachments/assets/3d5cad56-7b6d-48ec-a561-d7c36ec3e47f)
 ![Image](https://github.com/user-attachments/assets/aea7106b-ffb5-484f-848a-1f2cde32e35a)
 ![Image](https://github.com/user-attachments/assets/f651b15f-142c-4fd2-8fae-cd1fb4bca41c)
